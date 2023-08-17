@@ -1,0 +1,1 @@
+print("print is used to print output to std out")
